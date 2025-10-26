@@ -6,7 +6,7 @@
 <samp>Hi there! I'm <b>Sina Salimian</b>.</samp>  
 <samp>I'm a <b>Machine Learning Scientist</b> and <b>Full-Stack Developer</b> with a research background from the <a href="https://www.ucalgary.ca/">University of Calgary</a> in Canada. I specialize in <b>LLM safety</b>, <b>GenAI confidence estimation</b>, and <b>bias mitigation</b>.</samp>  
 
-<samp>On the product side, I build <b>scalable full-stack applications</b> using <b>Next.js</b>, <b>Django</b>, and <b>AWS</b>. I also develop <b>Python libraries</b> for model evaluation and fine-tuning.</samp>  
+<samp>On the product side, I build <b>scalable full-stack applications</b>. I also develop <b>Python libraries</b> for model evaluation and fine-tuning.</samp>  
 
 <samp>I'm passionate about bridging cutting-edge AI research with real-world impact through <b>robust systems</b> and <b>open-source tools</b>. Always building, always learning.</samp>  
 </p>
